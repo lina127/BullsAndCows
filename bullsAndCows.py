@@ -3,7 +3,7 @@ import random
 # Bulls and Cows is a number guessing game.
 # Player need to guess auto-defined 4 digit numbers.
 # Bull means correct num with correct position
-# Cow means correct num but wrong position
+# Cow means correct num in wrong position
 
 def getValidInput():
     guess= str (input ("Enter your guess (4 digits): "))
