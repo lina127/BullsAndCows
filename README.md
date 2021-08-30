@@ -1,6 +1,6 @@
 # BullsAndCows
 #### Bulls and cows is a simple guessing game.  
-Player is required to figure out 4-digit secret number.
+Player is required to figure out 4-digit secret number.  
 Bull: correct number with correct position  
 Cow: correct number in wrong position
 
